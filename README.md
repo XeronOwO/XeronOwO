@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on computer software and game development
+- 🌱 I’m currently learning C++/C#
+- 👯 I’m looking to collaborate on the development of QQ robots
+- 📫 How to reach me: sercet, but you can create issues when something went wrong
+
 <!--
 **XeronOwO/XeronOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
